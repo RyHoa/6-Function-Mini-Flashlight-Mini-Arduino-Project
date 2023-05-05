@@ -1,4 +1,4 @@
-# 6-Function-Mini-Flashlight-Mini-Project
+# 6-Function-Mini-Flashlight-Arduino-Project
 ##
 ## 1. Rotary Encoder to control the brightness of the LED
 I detected leading edge of A and depending on the state of B, count increases or decreases. That value is then used to analog write into the LED.
